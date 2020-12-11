@@ -1,0 +1,2 @@
+# EsportsAPI
+Discord ChatBot
