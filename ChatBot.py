@@ -47,5 +47,5 @@ async def nine_nine(ctx):
     response = 'I am a Robot'
     await ctx.send(response)
 
-client.run('Nzg2NDE3NDg5NzI1ODgyMzg4.X9GGXA.xS7Lb6mZ-ioUAffBIZ7r5suG_BI')
-# bot.run('Nzg2NDE3NDg5NzI1ODgyMzg4.X9GGXA.xS7Lb6mZ-ioUAffBIZ7r5suG_BI') uncomment to run bot command
+client.run('API Token Goes here')
+# bot.run('API Token Goes here') uncomment to run bot command
